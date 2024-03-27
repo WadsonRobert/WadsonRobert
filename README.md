@@ -6,6 +6,8 @@
 
 ![Wadson Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=WadsonRobert&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WadsonRobert&layout=donut-vertical)](https://github.com/WadsonRobert/github-readme-stats)
+
 ## Tecnologias que estudo:
 
 <div style="display: inline_block">
